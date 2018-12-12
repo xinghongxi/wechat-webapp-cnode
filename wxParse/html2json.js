@@ -3,7 +3,7 @@
 
   function q(v) {
     return '"' + v + '"';
-    congsole.log('测试 准备回滚')
+    congsole.log()
     }
 
   function removeDOCTYPE(html) {
