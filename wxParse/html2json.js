@@ -3,7 +3,7 @@
 
   function q(v) {
     return '"' + v + '"';
-  }
+  alert()}
 
   function removeDOCTYPE(html) {
     return html
