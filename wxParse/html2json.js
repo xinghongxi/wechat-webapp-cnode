@@ -3,7 +3,9 @@
 
   function q(v) {
     return '"' + v + '"';
-  alert()}
+    // 邢红喜
+    //  1 王中平
+ }
 
   function removeDOCTYPE(html) {
     return html
