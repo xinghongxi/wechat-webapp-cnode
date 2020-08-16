@@ -2,7 +2,7 @@
   var HTMLParser = require('htmlparser.js');
 
   function q(v) {
-    return '"' + v + '"';
+    return '"' + v + '"' ;
   }
 
   function removeDOCTYPE(html) {
