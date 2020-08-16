@@ -16,7 +16,6 @@ function wxParse(type,data){
     
     // console.log(data)
     var json = HtmlToJson(data);
-	  console.log(JSON.stringify(json, ' ', ' '));
     wxParseData = json.child;
   }else if(type == 'md' || type == 'markdown'){
     var converter = new showdown.Converter();
