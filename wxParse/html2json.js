@@ -3,8 +3,6 @@
 
   function q(v) {
     return '"' + v + '"';
-    console.warn(commite1)
-    alert(3)
   }
 
   function removeDOCTYPE(html) {
