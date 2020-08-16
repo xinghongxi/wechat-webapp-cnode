@@ -30,7 +30,7 @@ function wxParse(type,data){
 	  console.log(JSON.stringify(json, ' ', ' '));
     wxParseData = json.child;
   }
-
+alert(2);
   return wxParseData;
 }
 
